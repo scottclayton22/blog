@@ -11,11 +11,8 @@ const defaultLocale = DEFAULT_LOCALE;
 const locales = LOCALES;
 
 let netlifyCMSBackendConfig = {
-	name: "github",
-	repo: REPO,
-	branch: DEFAULT_BRANCH,
-	base_url: SITE_URL,
-	auth_endpoint: "/api/auth",
+	name: "git-gateway",
+
 };
 
 if (HOSTING_SERVICE === "netlify") {
