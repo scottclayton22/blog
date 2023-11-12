@@ -42,7 +42,31 @@ const { image, title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.prop
 		<!-- End Google Tag Manager (noscript) -->
 		<Navbar />
 		<main>
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3628256469323845"
+     				crossorigin="anonymous"></script>
+				<!-- display-add2 -->
+				<ins class="adsbygoogle"
+     				style="display:block"
+     				data-ad-client="ca-pub-3628256469323845"
+     				data-ad-slot="4220359768"
+     				data-ad-format="auto"
+     				data-full-width-responsive="true"></ins>
+			<script>
+     				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 			<slot />
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3628256469323845"
+     				crossorigin="anonymous"></script>
+				<!-- display-add1 -->
+				<ins class="adsbygoogle"
+     				style="display:block"
+     				data-ad-client="ca-pub-3628256469323845"
+     				data-ad-slot="3683219438"
+     				data-ad-format="auto"
+     				data-full-width-responsive="true"></ins>
+				<script>
+     				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 		</main>
 		<Footer />
 	</body>
