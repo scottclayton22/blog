@@ -30,6 +30,10 @@ export const PAGES: Page[] = [
 		href: "/blog",
 	},
 	{
+		title: "Free Stuff",
+		href: "https://madeforlifemusic.com",
+	},
+	{
 		title: "About",
 		href: "/about",
 	},
