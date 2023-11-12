@@ -2,12 +2,12 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // Website metadata
-export const SITE_URL: string = "https://astrostarter.zank.studio";
-export const SITE_TITLE: string = "Astro Blog";
-export const SITE_DESCRIPTION: string = "Welcome to my website!";
+export const SITE_URL: string = "https://beatblog.netlify.app/";
+export const SITE_TITLE: string = "BeatBlog";
+export const SITE_DESCRIPTION: string = "Welcome to BeatBlog";
 
 // Repo info
-export const REPO: string = "zankhq/astro-starter"; // TODO: Update dynamically
+export const REPO: string = "scottclayton22/blog"; // TODO: Update dynamically
 export const DEFAULT_BRANCH: string = "main"; // TODO: Update dynamically
 
 // SEO metadata
