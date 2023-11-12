@@ -5,7 +5,7 @@ pubDate: 2023-09-10 03:25
 heroImage: "@assets/images/blog-placeholder-3.jpg"
 ---
 
-# # Unleashing Sonic Alchemy: A Guide to Modular Synthesizers
+# Unleashing Sonic Alchemy: A Guide to Modular Synthesizers
 
 ## Introduction: The Modular Frontier
 
